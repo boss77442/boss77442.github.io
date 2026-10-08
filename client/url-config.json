@@ -1,0 +1,27 @@
+[
+  {
+    "region": "CIS",
+    "cdnAudioUrl": "",
+    "cdnBackupUrl": "",
+    "cdnUrl": "",
+    "characterService": "",
+    "dataPolicyUrl": "",
+    "discordUrl": "",
+    "donate2ApiUrl": "",
+    "donateUrl": "",
+    "offerUrl": "",
+    "paymentMarketVerificationUrl": "",
+    "paymentRustoreVerificationUrl": "",
+    "policyUrl": "",
+    "registrationService": "",
+    "registrationSite": "",
+    "serverRules": "",
+    "telegramBotUrl": "",
+    "telegramUrl": "",
+    "vkUrl": "",
+    "apiUsername": "",
+    "apiBackupUsername": "",
+    "apiPassword": "",
+    "apiBackupPassword": ""
+  }
+]
