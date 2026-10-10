@@ -1,16 +1,18 @@
 [
   {
-    "id":"1",
-    "online":"0",
-    "maxonline":"1000",
-    "color":"FF0000",
-    "x2":"false",
-    "key":"1424",
-    "name":"Moscow",
-    "firstname":"Moscow",
-    "secondname":"",
-    "url":"80.242.59.112",
-    "ip":"80.242.59.112",
-    "port":"9045"
+    "id": 1,
+    "name": "Moscow",
+    "ip": "80.242.59.112",
+    "port": "9045",
+    "key": "moscow",
+    "color": "38383D",
+    "online": "0",
+    "maxonline": "500",
+    "url": "",
+    "x2": false,
+    "x2cordx": 0.0,
+    "x2cordy": 0.0,
+    "firstname": "Moscow",
+    "secondname": ""
   }
 ]
