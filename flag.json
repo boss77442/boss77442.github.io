@@ -1,1 +1,57 @@
-
+{
+  "ab_test": {
+    "defaultValue": 0,
+    "google_play": 0,
+    "rustore": 0,
+    "site": 0
+  },
+  "candidate_versions": {
+    "defaultValue": 0,
+    "google_play": 0,
+    "rustore": 0,
+    "site": 0
+  },
+  "check_compatible_client_version": {
+    "ab_test": {
+      "defaultValue": 0,
+      "google_play": 0,
+      "rustore": 0,
+      "site": 0
+    },
+    "is_enabled": false,
+    "name": "check_compatible_client_version"
+  },
+  "connection_timeout": 30,
+  "download_size_without_confirm": 100,
+  "download_speed_limit": 0,
+  "download_timeout": 300,
+  "force_check_resources": false,
+  "is_enabled_check_resources": false,
+  "is_enabled_recovery": false,
+  "next_slot_downloading": {
+    "ab_test": {
+      "defaultValue": 0,
+      "google_play": 0,
+      "rustore": 0,
+      "site": 0
+    },
+    "is_enabled": false,
+    "name": "next_slot_downloading"
+  },
+  "sending_of_cdn_metric": {
+    "ab_test": {
+      "defaultValue": 0,
+      "google_play": 0,
+      "rustore": 0,
+      "site": 0
+    },
+    "is_enabled": false,
+    "name": "sending_of_cdn_metric"
+  },
+  "type_download_resources_3": {
+    "defaultValue": "cdn",
+    "google_play": "cdn",
+    "rustore": "cdn",
+    "site": "cdn"
+  }
+}
