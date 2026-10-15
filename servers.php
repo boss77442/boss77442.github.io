@@ -1,0 +1,1 @@
+[{"id":1,"status":"","online":"0","maxonline":"1000","color":"FF0000","x2":"false","key":"1424","name":"Moscow","firstname":"Moscow","secondname":"","url":"80.242.59.112","ip":"80.242.59.112","port":"9045"}]
